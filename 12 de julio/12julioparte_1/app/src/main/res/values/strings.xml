@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">12julio</string>
+    <string name="textView">Activity 1</string>
+    <string name="button">Siguiente</string>
+    <string name="textView2">Activity 2</string>
+    <string name="button2">Volver</string>
+</resources>

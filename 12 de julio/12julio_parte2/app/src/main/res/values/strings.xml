@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">12julio_parte2</string>
+    <string name="ed1">Ingrese primer valor: </string>
+    <string name="ed2">Ingrese segundo valor: </string>
+    <string name="button">Dividir</string>
+    <string name="tv">El resultado de la division es: </string>
+    <string name="division">Dividir</string>
+    <string name="tv1">Calculadora</string>
+</resources>

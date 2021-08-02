@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ControlCheckBox</string>
+    <string name="txt_valor1">Ingrese el primer valor:</string>
+    <string name="txt_valor2">Ingrese el segundo valor:</string>
+    <string name="cb1">Sumar</string>
+    <string name="cb2">Resta</string>
+    <string name="cb3">Multiplicación</string>
+    <string name="cb4">Dividir</string>
+    <string name="Bttn">Calcular</string>
+    <string name="tvresul">Resultado </string>
+</resources>

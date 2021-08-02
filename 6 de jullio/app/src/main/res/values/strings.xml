@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SegundaApp</string>
+    <string name="editnumero1">Ingresar el primer valor</string>
+    <string name="editnumero2">Ingresar el segundo valor</string>
+    <string name="btsumar">Sumar</string>
+    <string name="tvresultado">El resultado de la suma es:</string>
+</resources>

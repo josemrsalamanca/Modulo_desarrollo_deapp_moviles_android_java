@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">14julio_bd</string>
+    <string name="codigo">Ingresar el codigo del producto</string>
+    <string name="nombre">Ingresar el nombre del producto</string>
+    <string name="precio">Ingresar el precio del producto</string>
+    <string name="crearProducto">Crear Producto</string>
+    <string name="buscarProducto">Buscar Producto</string>
+    <string name="modificarProducto">Modificar Producto</string>
+    <string name="eliminarProducto">Eliminar Producto</string>
+</resources>

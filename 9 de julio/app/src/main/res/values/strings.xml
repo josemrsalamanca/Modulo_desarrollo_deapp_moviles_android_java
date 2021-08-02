@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swich</string>
+    <string name="edit1">Ingrese primer valor</string>
+    <string name="editt2">Ingrese segundo valor</string>
+    <string name="switch1">Sumar</string>
+    <string name="switch2">Restar</string>
+    <string name="switch3">Multiplicar</string>
+    <string name="switch4">Dividir</string>
+    <string name="button">Calcular</string>
+    <string name="tview">El resultado es:</string>
+</resources>

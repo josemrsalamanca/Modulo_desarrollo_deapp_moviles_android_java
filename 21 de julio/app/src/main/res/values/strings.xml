@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bd_14julio</string>
+    <string name="crearProducto">Crear Producto</string>
+    <string name="buscarProducto">Buscar Producto</string>
+    <string name="eliminarProducto">Eliminar Producto</string>
+    <string name="modificarProducto">Modificar Producto</string>
+    <string name="codigo">Ingresar codigo de Producto</string>
+    <string name="nombre">Ingresar nombre de Producto</string>
+    <string name="precio">Ingresar precio de Producto</string>
+    <string name="mostrarCrear">Se ha creado un registro de manera satisfactoria</string>
+
+</resources>

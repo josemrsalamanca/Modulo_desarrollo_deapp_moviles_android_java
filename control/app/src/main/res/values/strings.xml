@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">1Agosto</string>
+    <string name="tv1">Gasto Mensual</string>
+    <string name="tv2">Mes:</string>
+    <string name="tv3">Luz</string>
+    <string name="tv4">Agua</string>
+    <string name="tv5"></string>
+    <string name="edmes"></string>
+    <string name="edluz"></string>
+    <string name="edagua"></string>
+    <string name="ingresar">Ingresar</string>
+    <string name="volver">Volver</string>
+</resources>

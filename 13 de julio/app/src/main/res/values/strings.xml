@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormularioRegistro</string>
+    <string name="tv1">Formulario de registro</string>
+    <string name="edt1">Nombre</string>
+    <string name="edt2">Apellidos</string>
+    <string name="edt3">Mail</string>
+    <string name="edt4">Celular</string>
+    <string name="button">Registar</string>
+    <string name="tv2">Datos</string>
+    <string name="button2">Volver</string>
+</resources>

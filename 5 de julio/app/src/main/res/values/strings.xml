@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="Button1">Soy un botón</string>
+    <string name="Button2">Soy otro botón</string>
+</resources>
