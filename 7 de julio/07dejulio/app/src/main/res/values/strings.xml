@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">07 de julio</string>
+    <string name="edTNumero1">Ingresa un número</string>
+    <string name="edTNumero2">Ingresa otro número</string>
+    <string name="botonSuma">Sumar</string>
+    <string name="botonResta">Restar</string>
+    <string name="botonMul">Mult</string>
+    <string name="botonDiv">Div</string>
+    <string name="tvResult">Resultado</string>
+</resources>
