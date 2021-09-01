@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void crearProducto(View v){
-        Intent i = new Intent(this,MainActivity2.class);
+        Intent i = new Intent(this, Guardar.class);
         i.putExtra("cod",edcodigo.getText().toString());
         i.putExtra("nom",ednombre.getText().toString());
         i.putExtra("pre",edprecio.getText().toString());
@@ -76,6 +76,12 @@ public class MainActivity extends AppCompatActivity {
         }else{
             Toast.makeText(this,"Debe ingresar un codigo de producto",Toast.LENGTH_LONG).show();
         }
+        Intent i = new Intent(this,Buscar.class);
+        i.putExtra("cod",edcodigo.getText().toString());
+        i.putExtra("nom",ednombre.getText().toString());
+        i.putExtra("pre",edprecio.getText().toString());
+        startActivity(i);
+
     }
 
     public void modificarProducto(View v){
@@ -121,5 +127,8 @@ public class MainActivity extends AppCompatActivity {
         }else{
             Toast.makeText(this, "Ingresar un codigo",Toast.LENGTH_LONG).show();
         }
+
+        Intent ir = new Intent(this,Eliminar.class);
+        startActivity(ir);
     }
 }

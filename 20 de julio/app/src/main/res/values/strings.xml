@@ -9,4 +9,8 @@
     <string name="eliminarProducto">Eliminar Producto</string>
     <string name="tv1">Codigo/Nombre/Precio</string>
     <string name="volver">Volver</string>
+    <string name="tv2">Codigo/Nombre/Precio</string>
+    <string name="volver3">Volver</string>
+    <string name="tv3">El producto fue eliminado con existo de la Base de Datos.</string>
+    <string name="volver4">Volver</string>
 </resources>

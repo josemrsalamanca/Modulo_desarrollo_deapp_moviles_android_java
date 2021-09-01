@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductFlavor</string>
+    <string name="button">Todo</string>
+    <string name="button2">Demo</string>
+    <string name="button3">Full</string>
+    <string name="tv1"></string>
+</resources>
